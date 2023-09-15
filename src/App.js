@@ -14,9 +14,9 @@ const App = () => {
         <Navbar />
         <Routes>
           <Route path='/clay-portfolio' exact Component={Home} />
-          <Route path='/projects' exact Component={Projects}/>
-          <Route path='/resume' exact Component={Resume} />
-          <Route path='/hobbies' exact Component={Hobbies}/>
+          <Route path='/clay-portfolio/projects' exact Component={Projects}/>
+          <Route path='/clay-portfolio/resume' exact Component={Resume} />
+          <Route path='/clay-portfolio/hobbies' exact Component={Hobbies}/>
         </Routes>
       </Router>
       <Footer />

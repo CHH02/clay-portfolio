@@ -18,17 +18,17 @@ const Navbar = () => {
             </div>
             <div className="leftSide" id={openLinks?"open":"close"}>
                 <div className="hiddenLinks">
-                    <Link to='/'>ABOUT</Link>
-                    <Link to='/projects'>PROJECTS</Link>
-                    <Link to='/resume'>RESUME</Link>
-                    <Link to='/hobbies'>HOBBIES</Link>
+                    <Link to='/clay-portfolio'>ABOUT</Link>
+                    <Link to='/clay-portfolio/projects'>PROJECTS</Link>
+                    <Link to='/clay-portfolio/resume'>RESUME</Link>
+                    <Link to='/clay-portfolio/hobbies'>HOBBIES</Link>
                 </div>                               
             </div>
             <div className="rightSide">
-                <Link to='/'>ABOUT</Link>
-                <Link to='/projects'>PROJECTS</Link>
-                <Link to='/resume'>RESUME</Link>
-                <Link to='/hobbies'>HOBBIES</Link>
+                <Link to='/clay-portfolio'>ABOUT</Link>
+                <Link to='/clay-portfolio/projects'>PROJECTS</Link>
+                <Link to='/clay-portfolio/resume'>RESUME</Link>
+                <Link to='/clay-portfolio/hobbies'>HOBBIES</Link>
                 <button onClick={toggleNavbar}>
                     <ReorderIcon />
                 </button>
