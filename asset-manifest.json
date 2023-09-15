@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clay-portfolio/static/css/main.e6ad7159.css",
+    "main.js": "/clay-portfolio/static/js/main.7aaea89a.js",
+    "static/media/portfolio-pic.png": "/clay-portfolio/static/media/portfolio-pic.10cd6d92dc78c34bb5df.png",
+    "static/media/Resume.pdf": "/clay-portfolio/static/media/Resume.fce5b5856d74dcf0d252.pdf",
+    "static/media/texasHoldEmLogo.jpg": "/clay-portfolio/static/media/texasHoldEmLogo.39eb0ff842e946d0a501.jpg",
+    "index.html": "/clay-portfolio/index.html",
+    "main.e6ad7159.css.map": "/clay-portfolio/static/css/main.e6ad7159.css.map",
+    "main.7aaea89a.js.map": "/clay-portfolio/static/js/main.7aaea89a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6ad7159.css",
+    "static/js/main.7aaea89a.js"
+  ]
+}
